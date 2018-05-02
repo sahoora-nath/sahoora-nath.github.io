@@ -1,0 +1,12 @@
+# Projects
+# JavaScript 30
+- project: JavaScript 30
+  role: Student
+  duration: 2017
+  description: Completed the JavaScript 30 course by Wes Bos. Created 30 different websites using simple JavaScript, CSS, and HTML. View all the pages at <a href="https://andreidbr.github.io/JS30" target=_blank rel="noopener noreferrer">this link</a>.
+
+# API Documentation with Swagger UI
+- project: API Documentation with Swagger UI
+  role: Developer & Technical Writer
+  duration: 2017
+  description: Documented a free API using the Swagger specification and Swagger UI template. Performed all necessary tweaks and writing. View it at <a href="https://andreidbr.github.io/dist" target=_blank rel="noopener noreferrer">this link</a>.
