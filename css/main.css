@@ -33,11 +33,23 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
 }
+
+// "Reset" styles and SCSS reusable components
+@import "normalize";
+@import "mixins";
+@import "variables";
+
+// Generic site base & layout styles
+@import "base";
+@import "layout";
+
+// Layouts
+@import "resume";
