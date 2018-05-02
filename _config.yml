@@ -1,52 +1,5 @@
 title: "Rabindra Sahoo"
-description: "My resume created in Jekyll"
+description: "My resume created in Markdown"
 
 name: Rabindra Sahoo, Enterprise Integration Developer
 markdown: kramdown
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Resume settings
-resume_avatar:                  "false"
-resume_name:                    "Rabindra Nath Sahoo"
-resume_title:                   "Java Integration Developer"
-resume_contact_email:           "sahoo.rabindra@gmail.com"
-resume_header_contact_info:     ""
-resume_header_intro:            "<p>I am a creative person and love exploring systems and applications. I am an agile learner and I want to develop my skills in all sorts of challenging situations.</p>"
-
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
-
-# Decide which sections to use
-# comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           false
-resume_section_associations:    false
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  #resume_medium_url:            "https://medium.com/@andrey.dobra"
-  resume_linkedin_url:          "https://uk.linkedin.com/in/rabindra-nath-sahoo-0aa06924"
-  resume_github_url:            "https://github.com/sahoora-nath/"
-  #resume_twitter_url:           "https://twitter.com/AndreyDbr"
-  # resume_facebook_url:          "insert Facebook URL here"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "insert website here"
-resume_print_social_links:      false
-
-# Design settings
-resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
