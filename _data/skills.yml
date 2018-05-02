@@ -4,6 +4,12 @@
   description: I am always eager to develop my skill set, not just when it comes to quality assurance and general testing, but also when it comes to programming.
     I have experience with languages like Java 8, as well as Python, as evidenced by my certification.
 
+    | Priority apples | Second priority | Third priority |
+    |-------|--------|---------|
+    | ambrosia | gala | red delicious |
+    | pink lady | jazz | macintosh |
+    | honeycrisp | granny smith | fuji |
+    
     Java General + Testing (Junit / Mockito)	10 years	2018
     IDEs – (Eclipse / Intellij)	8 years	2018
     OSGI – (JBoss Fuse)	5 year	2018
