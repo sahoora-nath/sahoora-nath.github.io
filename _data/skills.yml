@@ -4,11 +4,7 @@
   description: I am always eager to develop my skill set, not just when it comes to quality assurance and general testing, but also when it comes to programming.
     I have experience with languages like Java 8, as well as Python, as evidenced by my certification.
 
-    | Priority apples | Second priority | Third priority |
-    |-------|--------|---------|
-    | ambrosia | gala | red delicious |
-    | pink lady | jazz | macintosh |
-    | honeycrisp | granny smith | fuji |
+    {kdexample::} | Header1 | Header2 | Header3 | |:--------|:-------:|--------:| | cell1 | cell2 | cell3 | | cell4 | cell5 | cell6 | |---- | cell1 | cell2 | cell3 | | cell4 | cell5 | cell6 | |===== | Foot1 | Foot2 | Foot3 {: rules="groups"} {kdexample}
     
     Java General + Testing (Junit / Mockito)	10 years	2018
     IDEs – (Eclipse / Intellij)	8 years	2018
