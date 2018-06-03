@@ -68,3 +68,27 @@ public static void main(String[] args) {
     }
 }
 ~~~~
+
+*Tricky part:*
+We all know that every try block must have at-least a catch block or finally block. However try-with-resources may not have either a catch or finally block.
+While Overriding method you may not throw Exception even though super class throws it.
+
+~~~~
+public class MyResource implements AutoCloseable {
+    @Override
+    public void close() {
+
+    }
+}
+~~~~
+
+Now the implementation class may not catch the excpetion.
+~~~~
+public static void main(String[] args) {
+  try(MyResource resource = new MyResource()) {
+            //do your stuff
+  }
+}
+~~~~
+
+Note that Closeable is idempotent, that means that calling the method close() more than once has no side effects.
