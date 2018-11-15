@@ -69,7 +69,8 @@ public static void main(String[] args) {
 }
 ~~~~
 
-*Tricky part:*
+**Tricky part:**
+
 We all know that every try block must have at-least a catch block or finally block. However try-with-resources may not have either a catch or finally block.
 While Overriding method you may not throw Exception even though super class throws it.
 
